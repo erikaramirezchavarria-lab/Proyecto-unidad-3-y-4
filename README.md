@@ -12,7 +12,7 @@ MySQL Workbench (o phpMyAdmin) para importar la base de datos
 
 ## Instrucciones de Instalación
 1. Clonar este repositorio.
-2. Importar el script SQL ubicado en `/database/script_completo.sql` a MySQL usando phpMyAdmin o Workbench.
+2. Importar el script SQL ubicado en `db_kinghotel` a MySQL usando phpMyAdmin o Workbench.
 3. Configurar la cadena de conexión en `utilerias/ConexionBD.java` con tus credenciales de base de datos.
 4. Compilar y ejecutar el proyecto con Maven: `mvn clean install`.
 
