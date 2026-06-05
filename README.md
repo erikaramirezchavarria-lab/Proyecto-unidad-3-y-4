@@ -178,3 +178,4 @@ Agregar capturas en una carpeta `docs/capturas/`:
 
 Pendiente de agregar por el equipo.
 
+hola
