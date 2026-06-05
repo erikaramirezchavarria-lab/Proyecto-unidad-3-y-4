@@ -176,4 +176,4 @@ Agregar capturas en una carpeta `docs/capturas/`:
 
 ## Enlace al video
 
-(https://youtu.be/67ffitq2-VI)
+https://youtu.be/67ffitq2-VI
