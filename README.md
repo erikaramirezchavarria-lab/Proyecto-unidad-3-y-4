@@ -109,9 +109,6 @@ Agregar capturas en una carpeta `docs/capturas/`:
 * Reporte PDF generado
 
 ## Diagrama ER
-
-```mermaid
-erDiagram
     usuarios {
         INT id\_usuario PK
         VARCHAR usuario
