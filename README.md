@@ -3,10 +3,9 @@
 Sistema de escritorio para gestion hotelera desarrollado en Java Swing con MySQL. Permite administrar usuarios, huespedes, habitaciones, reservas, servicios y pagos con control de acceso por roles, manejo de imagenes BLOB y reportes PDF.
 
 ## Integrantes
+Contreras Juarez Ezry Alexandra  22580067
 
 Garcia Contreras Genesis Nerina 22580080
-
-Contreras Juarez Ezry Alexandra  22580067
 
 Isidro Sanchez Lisset 21580044
 
