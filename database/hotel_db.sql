@@ -155,5 +155,3 @@ INSERT INTO pagos (id_reserva, id_huesped, monto, metodo_pago, fecha_pago, estad
 (8, 8, 5700.00, 'efectivo', '2026-06-08 17:45:00', 'pagado'),
 (9, 9, 3750.00, 'transferencia', '2026-06-09 18:50:00', 'pagado'),
 (10, 10, 5850.00, 'tarjeta', '2026-06-10 19:55:00', 'pendiente');
-
-{
